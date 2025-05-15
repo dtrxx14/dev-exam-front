@@ -15,6 +15,7 @@ A full-stack application using:
 ### 1. Clone the Repository
 
 git clone https://github.com/dtrxx14/dev-exam-front.git
+
 cd dev-exam-front
 
 ### 2. Install Dependencies
